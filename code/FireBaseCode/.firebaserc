@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestorecourse-1b89f": {
+      "hosting": {
+        "FireBaseCode": [
+          "firestorecourse-1b89f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestorecourse-1b89f"
+  }
+}
